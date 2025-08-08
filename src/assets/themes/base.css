@@ -1,0 +1,109 @@
+:root {
+    --primary-bg: #DDD;
+    --custom-background:
+    linear-gradient(rgb(85, 85, 85) 0%, rgb(51, 51, 51) 100%);
+    background-position-x: initial;
+    background-position-y: initial;
+    background-size: initial;
+    background-repeat: initial;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: initial;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+    background-color: #343a40 !important;
+}
+
+.main {
+    position: relative;
+}
+
+.sidebar {
+  position: absolute;
+  width: 220px;
+  
+  color: white;
+  border-radius: 5px;
+}
+
+li {
+    list-style: none;
+}
+.side-nav-collection {
+    background-color: #343a40;
+}
+.side-nav-link {
+    text-align: left;
+    border: 1px solid;
+    border-color: #343a40;
+    border-radius: 5px;
+    background-image: var(--custom-background);
+    margin-top: 2px;
+    padding-left: .5rem;
+    padding-right: .5rem;
+
+}
+
+.divider {
+    display: inline-block;
+    text-align: left;
+    line-height: 14px;
+    width: 100px;
+    padding-left: 0;
+}
+.label {
+    font-weight: bold;
+}
+
+.desc {
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+}
+.box-common-header {
+    border-bottom: 1px solid;
+    border-bottom-color: transparent;
+    background-image: var(--custom-background);
+    border-radius: 5px 5px 0 0;
+    padding-left: 10px;
+    height: 30px;
+}
+.box-common-body {
+    background-image: var(--custom-background);
+    border-radius: 5px;
+}
+.main-content {
+  margin-left: 240px;
+  padding: 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.box-common-dailog, .box-common, .box-common-notification {
+    width: 752px;
+    background-image: var(--custom-background) !important;
+    border-radius: 10px;
+}
+
+.label-common {
+    line-height: 14px;
+    padding-left: 2rem;
+}
+
+.box-common-dailog-body, .box-common-notification-body {
+    text-align: left;
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+}
+.box-common-dailog-body {
+    padding-top: 1rem;
+}

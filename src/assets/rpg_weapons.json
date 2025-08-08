@@ -1,0 +1,702 @@
+[
+  {
+    "name": "Thunder Spear of the Wolf",
+    "type": "Spear",
+    "damage": 83,
+    "weight": 8.76,
+    "value": 1690
+  },
+  {
+    "name": "Ancient Spear of Light",
+    "type": "Spear",
+    "damage": 64,
+    "weight": 13.1,
+    "value": 9594
+  },
+  {
+    "name": "Frozen Bow of Kings",
+    "type": "Bow",
+    "damage": 56,
+    "weight": 3.53,
+    "value": 8907
+  },
+  {
+    "name": "Holy Dagger of Power",
+    "type": "Dagger",
+    "damage": 73,
+    "weight": 8.93,
+    "value": 3809
+  },
+  {
+    "name": "Frozen Halberd of Doom",
+    "type": "Halberd",
+    "damage": 26,
+    "weight": 13.69,
+    "value": 762
+  },
+  {
+    "name": "Flaming Hammer of Doom",
+    "type": "Hammer",
+    "damage": 10,
+    "weight": 6.41,
+    "value": 7444
+  },
+  {
+    "name": "Cursed Crossbow of the Phoenix",
+    "type": "Crossbow",
+    "damage": 68,
+    "weight": 8.31,
+    "value": 3098
+  },
+  {
+    "name": "Ancient Sword of Ice",
+    "type": "Sword",
+    "damage": 27,
+    "weight": 13.06,
+    "value": 6708
+  },
+  {
+    "name": "Shadow Crossbow of Shadows",
+    "type": "Crossbow",
+    "damage": 18,
+    "weight": 11.06,
+    "value": 1089
+  },
+  {
+    "name": "Holy Dagger of the Wolf",
+    "type": "Dagger",
+    "damage": 11,
+    "weight": 11.24,
+    "value": 9961
+  },
+  {
+    "name": "Mythic Crossbow of Power",
+    "type": "Crossbow",
+    "damage": 76,
+    "weight": 2.72,
+    "value": 6469
+  },
+  {
+    "name": "Ancient Sword of Ice",
+    "type": "Sword",
+    "damage": 96,
+    "weight": 10.96,
+    "value": 9099
+  },
+  {
+    "name": "Thunder Bow of the Phoenix",
+    "type": "Bow",
+    "damage": 46,
+    "weight": 9.88,
+    "value": 4825
+  },
+  {
+    "name": "Infernal Sword of Power",
+    "type": "Sword",
+    "damage": 15,
+    "weight": 11.91,
+    "value": 2767
+  },
+  {
+    "name": "Frozen Bow of Power",
+    "type": "Bow",
+    "damage": 32,
+    "weight": 13.07,
+    "value": 8310
+  },
+  {
+    "name": "Frozen Halberd of the Wolf",
+    "type": "Halberd",
+    "damage": 70,
+    "weight": 10.19,
+    "value": 5944
+  },
+  {
+    "name": "Venomous Bow of Ice",
+    "type": "Bow",
+    "damage": 48,
+    "weight": 5.44,
+    "value": 8499
+  },
+  {
+    "name": "Frozen Bow of Shadows",
+    "type": "Bow",
+    "damage": 10,
+    "weight": 4.35,
+    "value": 3609
+  },
+  {
+    "name": "Ancient Crossbow of Light",
+    "type": "Crossbow",
+    "damage": 14,
+    "weight": 7.23,
+    "value": 5056
+  },
+  {
+    "name": "Shadow Mace of Thunder",
+    "type": "Mace",
+    "damage": 81,
+    "weight": 6.3,
+    "value": 4715
+  },
+  {
+    "name": "Shadow Dagger of Fury",
+    "type": "Dagger",
+    "damage": 44,
+    "weight": 11.63,
+    "value": 8650
+  },
+  {
+    "name": "Infernal Dagger of Light",
+    "type": "Dagger",
+    "damage": 55,
+    "weight": 2.72,
+    "value": 8095
+  },
+  {
+    "name": "Frozen Mace of Kings",
+    "type": "Mace",
+    "damage": 47,
+    "weight": 11.33,
+    "value": 6255
+  },
+  {
+    "name": "Ancient Staff of Kings",
+    "type": "Staff",
+    "damage": 67,
+    "weight": 10.91,
+    "value": 2612
+  },
+  {
+    "name": "Shadow Sword of Thunder",
+    "type": "Sword",
+    "damage": 11,
+    "weight": 3.12,
+    "value": 3483
+  },
+  {
+    "name": "Flaming Bow of the Wolf",
+    "type": "Bow",
+    "damage": 68,
+    "weight": 12.97,
+    "value": 8548
+  },
+  {
+    "name": "Venomous Bow of Doom",
+    "type": "Bow",
+    "damage": 22,
+    "weight": 13.26,
+    "value": 3192
+  },
+  {
+    "name": "Holy Staff of the Phoenix",
+    "type": "Staff",
+    "damage": 40,
+    "weight": 14.9,
+    "value": 4894
+  },
+  {
+    "name": "Ancient Halberd of Fury",
+    "type": "Halberd",
+    "damage": 64,
+    "weight": 8.37,
+    "value": 6257
+  },
+  {
+    "name": "Shadow Axe of Fury",
+    "type": "Axe",
+    "damage": 47,
+    "weight": 13.02,
+    "value": 1364
+  },
+  {
+    "name": "Mythic Crossbow of Power",
+    "type": "Crossbow",
+    "damage": 60,
+    "weight": 7.06,
+    "value": 725
+  },
+  {
+    "name": "Shadow Crossbow of the Phoenix",
+    "type": "Crossbow",
+    "damage": 21,
+    "weight": 13.74,
+    "value": 3902
+  },
+  {
+    "name": "Shadow Axe of Power",
+    "type": "Axe",
+    "damage": 34,
+    "weight": 12.94,
+    "value": 3525
+  },
+  {
+    "name": "Venomous Mace of Light",
+    "type": "Mace",
+    "damage": 74,
+    "weight": 12.87,
+    "value": 8892
+  },
+  {
+    "name": "Holy Sword of Light",
+    "type": "Sword",
+    "damage": 25,
+    "weight": 3.18,
+    "value": 1073
+  },
+  {
+    "name": "Frozen Hammer of Kings",
+    "type": "Hammer",
+    "damage": 27,
+    "weight": 11.32,
+    "value": 5132
+  },
+  {
+    "name": "Infernal Bow of Thunder",
+    "type": "Bow",
+    "damage": 86,
+    "weight": 9.79,
+    "value": 828
+  },
+  {
+    "name": "Ancient Sword of Fury",
+    "type": "Sword",
+    "damage": 30,
+    "weight": 8.46,
+    "value": 6263
+  },
+  {
+    "name": "Cursed Dagger of Thunder",
+    "type": "Dagger",
+    "damage": 24,
+    "weight": 11.95,
+    "value": 6525
+  },
+  {
+    "name": "Holy Spear of the Wolf",
+    "type": "Spear",
+    "damage": 48,
+    "weight": 2.56,
+    "value": 8355
+  },
+  {
+    "name": "Frozen Axe of Power",
+    "type": "Axe",
+    "damage": 83,
+    "weight": 13.01,
+    "value": 983
+  },
+  {
+    "name": "Ancient Halberd of Light",
+    "type": "Halberd",
+    "damage": 21,
+    "weight": 9.91,
+    "value": 1358
+  },
+  {
+    "name": "Cursed Mace of Shadows",
+    "type": "Mace",
+    "damage": 44,
+    "weight": 4.28,
+    "value": 2670
+  },
+  {
+    "name": "Holy Halberd of Light",
+    "type": "Halberd",
+    "damage": 28,
+    "weight": 5.97,
+    "value": 7597
+  },
+  {
+    "name": "Mythic Sword of Fury",
+    "type": "Sword",
+    "damage": 76,
+    "weight": 2.59,
+    "value": 427
+  },
+  {
+    "name": "Frozen Hammer of the Wolf",
+    "type": "Hammer",
+    "damage": 96,
+    "weight": 5.38,
+    "value": 4122
+  },
+  {
+    "name": "Venomous Sword of the Wolf",
+    "type": "Sword",
+    "damage": 39,
+    "weight": 6.9,
+    "value": 976
+  },
+  {
+    "name": "Holy Dagger of Thunder",
+    "type": "Dagger",
+    "damage": 69,
+    "weight": 11.14,
+    "value": 2994
+  },
+  {
+    "name": "Venomous Hammer of the Wolf",
+    "type": "Hammer",
+    "damage": 83,
+    "weight": 10.96,
+    "value": 1425
+  },
+  {
+    "name": "Ancient Crossbow of Fury",
+    "type": "Crossbow",
+    "damage": 25,
+    "weight": 3.87,
+    "value": 2676
+  },
+  {
+    "name": "Flaming Sword of Fury",
+    "type": "Sword",
+    "damage": 22,
+    "weight": 8.85,
+    "value": 5778
+  },
+  {
+    "name": "Infernal Bow of the Phoenix",
+    "type": "Bow",
+    "damage": 78,
+    "weight": 13.29,
+    "value": 3419
+  },
+  {
+    "name": "Venomous Sword of Shadows",
+    "type": "Sword",
+    "damage": 31,
+    "weight": 13.27,
+    "value": 1024
+  },
+  {
+    "name": "Mythic Halberd of Thunder",
+    "type": "Halberd",
+    "damage": 50,
+    "weight": 7.07,
+    "value": 7552
+  },
+  {
+    "name": "Infernal Bow of Fury",
+    "type": "Bow",
+    "damage": 36,
+    "weight": 14.27,
+    "value": 6457
+  },
+  {
+    "name": "Thunder Staff of Fury",
+    "type": "Staff",
+    "damage": 47,
+    "weight": 3.84,
+    "value": 5698
+  },
+  {
+    "name": "Flaming Hammer of Fury",
+    "type": "Hammer",
+    "damage": 71,
+    "weight": 7.03,
+    "value": 4074
+  },
+  {
+    "name": "Venomous Dagger of Fury",
+    "type": "Dagger",
+    "damage": 53,
+    "weight": 12.38,
+    "value": 854
+  },
+  {
+    "name": "Holy Spear of Thunder",
+    "type": "Spear",
+    "damage": 90,
+    "weight": 13.8,
+    "value": 7531
+  },
+  {
+    "name": "Cursed Halberd of Fury",
+    "type": "Halberd",
+    "damage": 65,
+    "weight": 4.69,
+    "value": 7964
+  },
+  {
+    "name": "Shadow Staff of Power",
+    "type": "Staff",
+    "damage": 27,
+    "weight": 3.0,
+    "value": 2233
+  },
+  {
+    "name": "Frozen Dagger of Power",
+    "type": "Dagger",
+    "damage": 54,
+    "weight": 11.58,
+    "value": 653
+  },
+  {
+    "name": "Mythic Staff of Thunder",
+    "type": "Staff",
+    "damage": 88,
+    "weight": 11.53,
+    "value": 9891
+  },
+  {
+    "name": "Shadow Halberd of Thunder",
+    "type": "Halberd",
+    "damage": 75,
+    "weight": 2.57,
+    "value": 5066
+  },
+  {
+    "name": "Holy Axe of Shadows",
+    "type": "Axe",
+    "damage": 95,
+    "weight": 9.05,
+    "value": 455
+  },
+  {
+    "name": "Infernal Hammer of Doom",
+    "type": "Hammer",
+    "damage": 61,
+    "weight": 6.47,
+    "value": 1643
+  },
+  {
+    "name": "Shadow Bow of Kings",
+    "type": "Bow",
+    "damage": 44,
+    "weight": 6.57,
+    "value": 3531
+  },
+  {
+    "name": "Frozen Crossbow of Ice",
+    "type": "Crossbow",
+    "damage": 13,
+    "weight": 7.86,
+    "value": 1683
+  },
+  {
+    "name": "Holy Bow of Ice",
+    "type": "Bow",
+    "damage": 35,
+    "weight": 8.96,
+    "value": 6054
+  },
+  {
+    "name": "Holy Sword of Thunder",
+    "type": "Sword",
+    "damage": 68,
+    "weight": 9.65,
+    "value": 7641
+  },
+  {
+    "name": "Ancient Bow of Power",
+    "type": "Bow",
+    "damage": 69,
+    "weight": 5.06,
+    "value": 4144
+  },
+  {
+    "name": "Holy Spear of Power",
+    "type": "Spear",
+    "damage": 91,
+    "weight": 6.06,
+    "value": 5913
+  },
+  {
+    "name": "Cursed Halberd of the Phoenix",
+    "type": "Halberd",
+    "damage": 61,
+    "weight": 5.2,
+    "value": 3451
+  },
+  {
+    "name": "Flaming Dagger of Ice",
+    "type": "Dagger",
+    "damage": 92,
+    "weight": 14.73,
+    "value": 9673
+  },
+  {
+    "name": "Venomous Mace of Light",
+    "type": "Mace",
+    "damage": 90,
+    "weight": 7.51,
+    "value": 3158
+  },
+  {
+    "name": "Venomous Crossbow of Ice",
+    "type": "Crossbow",
+    "damage": 28,
+    "weight": 5.38,
+    "value": 2291
+  },
+  {
+    "name": "Mythic Dagger of Thunder",
+    "type": "Dagger",
+    "damage": 53,
+    "weight": 12.01,
+    "value": 327
+  },
+  {
+    "name": "Cursed Hammer of Ice",
+    "type": "Hammer",
+    "damage": 15,
+    "weight": 11.87,
+    "value": 4433
+  },
+  {
+    "name": "Ancient Mace of Doom",
+    "type": "Mace",
+    "damage": 54,
+    "weight": 10.97,
+    "value": 4298
+  },
+  {
+    "name": "Frozen Bow of the Phoenix",
+    "type": "Bow",
+    "damage": 57,
+    "weight": 13.44,
+    "value": 7689
+  },
+  {
+    "name": "Thunder Hammer of Ice",
+    "type": "Hammer",
+    "damage": 70,
+    "weight": 12.59,
+    "value": 8817
+  },
+  {
+    "name": "Shadow Mace of Power",
+    "type": "Mace",
+    "damage": 82,
+    "weight": 12.46,
+    "value": 4759
+  },
+  {
+    "name": "Cursed Mace of Doom",
+    "type": "Mace",
+    "damage": 56,
+    "weight": 5.67,
+    "value": 1009
+  },
+  {
+    "name": "Frozen Spear of Doom",
+    "type": "Spear",
+    "damage": 54,
+    "weight": 2.99,
+    "value": 6133
+  },
+  {
+    "name": "Holy Sword of Ice",
+    "type": "Sword",
+    "damage": 55,
+    "weight": 13.18,
+    "value": 551
+  },
+  {
+    "name": "Mythic Dagger of the Phoenix",
+    "type": "Dagger",
+    "damage": 45,
+    "weight": 8.87,
+    "value": 3380
+  },
+  {
+    "name": "Mythic Crossbow of Light",
+    "type": "Crossbow",
+    "damage": 29,
+    "weight": 4.01,
+    "value": 958
+  },
+  {
+    "name": "Mythic Staff of the Phoenix",
+    "type": "Staff",
+    "damage": 94,
+    "weight": 2.3,
+    "value": 9704
+  },
+  {
+    "name": "Flaming Crossbow of Ice",
+    "type": "Crossbow",
+    "damage": 25,
+    "weight": 4.71,
+    "value": 9672
+  },
+  {
+    "name": "Ancient Crossbow of Fury",
+    "type": "Crossbow",
+    "damage": 67,
+    "weight": 7.57,
+    "value": 3144
+  },
+  {
+    "name": "Thunder Crossbow of Ice",
+    "type": "Crossbow",
+    "damage": 96,
+    "weight": 13.57,
+    "value": 3262
+  },
+  {
+    "name": "Frozen Mace of Shadows",
+    "type": "Mace",
+    "damage": 37,
+    "weight": 12.83,
+    "value": 4114
+  },
+  {
+    "name": "Mythic Bow of Light",
+    "type": "Bow",
+    "damage": 80,
+    "weight": 13.44,
+    "value": 4446
+  },
+  {
+    "name": "Frozen Bow of Doom",
+    "type": "Bow",
+    "damage": 64,
+    "weight": 8.32,
+    "value": 2280
+  },
+  {
+    "name": "Infernal Axe of Light",
+    "type": "Axe",
+    "damage": 89,
+    "weight": 6.89,
+    "value": 5003
+  },
+  {
+    "name": "Cursed Axe of Thunder",
+    "type": "Axe",
+    "damage": 95,
+    "weight": 7.92,
+    "value": 3348
+  },
+  {
+    "name": "Frozen Spear of Power",
+    "type": "Spear",
+    "damage": 29,
+    "weight": 13.76,
+    "value": 5178
+  },
+  {
+    "name": "Frozen Staff of Fury",
+    "type": "Staff",
+    "damage": 20,
+    "weight": 10.88,
+    "value": 3539
+  },
+  {
+    "name": "Mythic Crossbow of Power",
+    "type": "Crossbow",
+    "damage": 28,
+    "weight": 14.18,
+    "value": 7495
+  },
+  {
+    "name": "Cursed Crossbow of the Phoenix",
+    "type": "Crossbow",
+    "damage": 94,
+    "weight": 2.35,
+    "value": 4099
+  }
+]
